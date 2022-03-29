@@ -1,0 +1,3 @@
+C:/Users/alext/Desktop/UBB mate-info/Semestrul 2/POO/Lab 6/cmake-build-debug/CMakeFiles/Lab_5.dir
+C:/Users/alext/Desktop/UBB mate-info/Semestrul 2/POO/Lab 6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alext/Desktop/UBB mate-info/Semestrul 2/POO/Lab 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
